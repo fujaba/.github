@@ -2,4 +2,6 @@
 
 ## Bugfixes
 
-* A one-sentence summary of your bugfix for the changelog.
+* A one-sentence summary of your bugfix for the changelog. #(issue number)
+
+Closes #(issue number)
